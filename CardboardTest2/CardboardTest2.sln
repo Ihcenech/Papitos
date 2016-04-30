@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardboardTest2.CSharp.Plugins", "CardboardTest2.CSharp.Plugins.csproj", "{6DB6F67C-664B-24E5-A1EB-7B4A5340D3FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardboardTest2.CSharp", "CardboardTest2.CSharp.csproj", "{930A92BB-983C-A910-7613-1348983EEEF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardboardTest2.CSharp.Editor", "CardboardTest2.CSharp.Editor.csproj", "{4C6B14D0-76BB-1BF3-6FB4-9B22625810D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DB6F67C-664B-24E5-A1EB-7B4A5340D3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB6F67C-664B-24E5-A1EB-7B4A5340D3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB6F67C-664B-24E5-A1EB-7B4A5340D3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB6F67C-664B-24E5-A1EB-7B4A5340D3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930A92BB-983C-A910-7613-1348983EEEF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930A92BB-983C-A910-7613-1348983EEEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930A92BB-983C-A910-7613-1348983EEEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930A92BB-983C-A910-7613-1348983EEEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C6B14D0-76BB-1BF3-6FB4-9B22625810D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6B14D0-76BB-1BF3-6FB4-9B22625810D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6B14D0-76BB-1BF3-6FB4-9B22625810D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6B14D0-76BB-1BF3-6FB4-9B22625810D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
